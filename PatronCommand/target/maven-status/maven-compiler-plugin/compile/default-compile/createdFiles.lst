@@ -1,0 +1,5 @@
+app\Command.class
+app\Light.class
+app\LightOnCommand.class
+app\SimpleRemoteControl.class
+app\RemoteControlTest.class
